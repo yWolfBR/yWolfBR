@@ -15,8 +15,8 @@
   
 ##### Some of the technologies I have worked with
 
-![Git](https://img.shields.io/badge/-Git-222222?style=flat&logo=git&logoColor=F05032)
-![GitHub](https://img.shields.io/badge/-GitHub-222222?style=flat&logo=github&logoColor=181717)
+[![Git](https://img.shields.io/badge/-Git-222222?style=flat&logo=git&logoColor=F05032)](https://git-scm.com)
+[![GitHub](https://img.shields.io/badge/-GitHub-222222?style=flat&logo=github&logoColor=181717)](https://github.com)
 
 
 ##### Some of my favorite open source projects
